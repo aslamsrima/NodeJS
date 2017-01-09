@@ -1,0 +1,27 @@
+{
+  "name": "aslam",
+  "version": "1.0.0",
+  "description": "Trials",
+  "main": "nodeserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslamsrima/NodeJS.git"
+  },
+  "author": "aslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslamsrima/NodeJS/issues"
+  },
+  "homepage": "https://github.com/aslamsrima/NodeJS#readme",
+  "keywords": [
+    "no"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
